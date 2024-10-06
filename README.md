@@ -9,8 +9,6 @@ You will understand and navigate the complexities of model versioning and govern
 
 Python, Deep Learning, LLMs, model management, model registry, Weights & Biases, Machine Learning.
 
-https://aiplanet.com/notebooks/6385/leandro_data/assessment
-
 ## Model
 
 _Dataset: https://www.kaggle.com/datasets/linkanjarad/coding-problems-and-solution-python-code
