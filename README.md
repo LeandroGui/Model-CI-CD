@@ -9,7 +9,7 @@ You will understand and navigate the complexities of model versioning and govern
 
 Python, Deep Learning, LLMs, model management, model registry, Weights & Biases, Machine Learning.
 
-## Model
+## Model:
 
 _Dataset: https://www.kaggle.com/datasets/linkanjarad/coding-problems-and-solution-python-code
 
@@ -21,6 +21,6 @@ _Link to your registered model: https://wandb.ai/teamlg-ai/registry/model
 
 _Link colab: https://colab.research.google.com/drive/17FxG6xUrRa2w6BrCacvJKLbrmcyD5-6N?usp=sharing
 
-## Certificate
+## Certificate:
 
 https://www.credential.net/e70e3bf8-683c-42d0-b399-f693b3a10012
