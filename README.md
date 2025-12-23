@@ -1,5 +1,7 @@
 # Certification Enterprise Model Management
 
+![W&B Certification](img.shields.io)
+
 Imparted by https://wandb.ai/site
 
 Create an enterprise-level Model Management System
