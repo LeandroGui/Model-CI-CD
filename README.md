@@ -1,10 +1,10 @@
 # Certification Enterprise Model Management
 
-<picture>
-  <img alt="W&B Certification" src="https://img.shields.io/badge/Certification-Model%20CI/CD-gold?logo=weightsandbiases">
-</picture>
-<p> </p>p
-
+<p>
+  <picture>
+    <img alt="W&B Certification" src="https://img.shields.io/badge/Certification-Model%20CI/CD-gold?logo=weightsandbiases">
+  </picture>
+</p>
 Imparted by https://wandb.ai/site
 
 Create an enterprise-level Model Management System
