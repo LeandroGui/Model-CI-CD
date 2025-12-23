@@ -21,6 +21,5 @@ _Link to your registered model: https://wandb.ai/teamlg-ai/registry/model
 
 _Link colab: https://colab.research.google.com/drive/17FxG6xUrRa2w6BrCacvJKLbrmcyD5-6N?usp=sharing
 
-## Certificate:
+## [📜 View Credential / Certificate](https://www.credential.net/e70e3bf8-683c-42d0-b399-f693b3a10012)
 
-https://www.credential.net/e70e3bf8-683c-42d0-b399-f693b3a10012
