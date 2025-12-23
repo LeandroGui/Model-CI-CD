@@ -1,6 +1,6 @@
 # Certification Enterprise Model Management
 
-![W&B Certification](img.shields.io)
+![W&B Certification](https://img.shields.io/badge/Certification-Model%20CI/CD-gold?logo=weightsandbiases)
 
 Imparted by https://wandb.ai/site
 
